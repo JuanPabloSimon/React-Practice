@@ -1,0 +1,22 @@
+#config_box {
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+#display {
+    padding-top: 0.8em;
+    text-align: center;
+    background-color: grey;
+    width: 200px;
+    height: 50px;
+  }
+
+#volume {
+width: 200px;
+height: 3px;
+background-color: black;
+}

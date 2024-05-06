@@ -1,0 +1,9 @@
+
+#container_box {
+    padding: 1em;
+    width: 660px;
+    height: 316px;
+    border: solid #FFA500 3px; 
+    display: flex;
+    background-color: #B3B3B3;
+  }

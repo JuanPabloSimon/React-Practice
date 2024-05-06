@@ -1,0 +1,21 @@
+.sound_button {
+    width: 100px;
+    height: 80px;
+    border: none;
+    font-size: 2em;
+    background-color: #808080;
+    border-radius: 5px;
+    -webkit-box-shadow: 4px 7px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 7px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 4px 7px 5px 0px rgba(0,0,0,0.75);
+}
+
+#sounds_box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: -15px;
+    margin: 5px;
+    width: 50%;
+  }

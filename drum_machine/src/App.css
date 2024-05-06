@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#app {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  padding-top: 11em;
+  background-color: azure;
+}
+
+.action_button {
+  height: 20px;
+  width: 45px;
+  margin-top: 3px;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 50%, rgba(14,24,177,1) 50%);}
+
+  .action_button_off {
+    height: 20px;
+    width: 45px;
+    margin-top: 3px;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(14,24,177,1) 50%, rgba(0,0,0,1) 50%);
+  }
