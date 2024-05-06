@@ -1,0 +1,28 @@
+.toDo {
+    margin: 0.6em 0;
+    border-bottom: dotted 2px rgb(83, 83, 100);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 5px;
+    padding: 0.2em 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.toDoText {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.toDoButton {
+    border-radius: 6px;
+    background-color: #fff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: all ease 0.5s;
+    border: none;
+}
+
+.toDoButton:hover {
+    background-color: rgb(102, 40, 40);
+    color: white;
+}
