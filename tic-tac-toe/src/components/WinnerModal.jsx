@@ -1,27 +1,23 @@
 import Square from "./Square";
 
 // eslint-disable-next-line no-unused-vars, react/prop-types
-const WinnerModal = ({winner, resetGame}) => {
-    if (winner === null) return null
-    
-    const winnerText = winner === false ? 'Empate' : "Ganó: "; 
-    return (
-        <section className='winner'>
-        <div className='text'> 
-            <h2>{winnerText}</h2>
+const WinnerModal = ({ winner, resetGame }) => {
+  if (winner === null) return null;
 
-            <header className='win'>
-            {winner && <Square>{winner}</Square>}
-            </header>
+  const winnerText = winner === false ? "Empate" : "Ganó: ";
+  return (
+    <section className="winner">
+      <div className="text">
+        <h2>{winnerText}</h2>
 
-            <footer>
-            <button onClick={resetGame}>
-                Empeza de Nuevo
-            </button>
-            </footer>
-        </div>
-        </section>
-            )
-}
+        <header className="win">{winner && <Square>{winner}</Square>}</header>
+
+        <footer>
+          <button onClick={resetGame}>Empeza de Nuevo</button>
+        </footer>
+      </div>
+    </section>
+  );
+};
 
 export default WinnerModal;
