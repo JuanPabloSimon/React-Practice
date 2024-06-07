@@ -1,0 +1,553 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 593,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "GuLZAAAAMAAJ",
+            "etag": "WZfqCptQ0Qk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GuLZAAAAMAAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings",
+                "authors": [
+                    "John Ronald Reuel Tolkien"
+                ],
+                "publisher": "William Morrow",
+                "publishedDate": "2004",
+                "description": "The Fellowship of the Ring, part one of J.R.R. Tolkien's epic masterpiece, first reached these shores on October 21, 1954, arriving, as C. S. Lewis proclaimed, \"like lightning from a clear sky.\" Fifty years and nearly one hundred million American readers later comes a beautiful new one-volume collector's edition befitting the stature of this crown jewel of our list. With a text fully corrected under the supervision of Christopher Tolkien to meet the author's exacting wishes, two large-format fold-out maps, a ribbon placemarker, gilded page edges, a color insert depicting Tolkien's own paintings of the Book of Mazarbul and exceptionally elegant and sturdy overall packaging housed within an attractive slipcase, this edition is the finest we've ever produced.",
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "4.5.2.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GuLZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GuLZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=GuLZAAAAMAAJ&q=lordoftherings&dq=lordoftherings&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=GuLZAAAAMAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings.html?hl=&id=GuLZAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "accessViewStatus": "NONE"
+            },
+            "searchInfo": {
+                "textSnippet": "&quot; The text is fully correctedQunder the supervision of Christopher TolkienQto meet the author&#39;s exacting wishes, and includes two large-format fold-out maps, a ribbon placemarker, and exceptionally elegant packaging. 0-618-51765-0$100.00 / ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "yl4dILkcqm4C",
+            "etag": "ILqFRL6pg3U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/yl4dILkcqm4C",
+            "volumeInfo": {
+                "title": "The Lord Of The Rings",
+                "subtitle": "One Volume",
+                "authors": [
+                    "J.R.R. Tolkien"
+                ],
+                "publisher": "HarperCollins",
+                "publishedDate": "2012-02-15",
+                "description": "Immerse yourself in Middle-earth with J.R.R. Tolkien’s classic masterpieces behind the films... This special 50th anniversary edition includes three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King), along with an extensive new index—a must-own tome for old and new Tolkien readers alike. One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them. In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell by chance into the hands of the hobbit Bilbo Baggins. From Sauron's fastness in the Dark Tower of Mordor, his power spread far and wide. Sauron gathered all the Great Rings to him, but always he searched for the One Ring that would complete his dominion. When Bilbo reached his eleventy-first birthday he disappeared, bequeathing to his young cousin Frodo the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom. The Lord of the Rings tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider. J.R.R. Tolkien (1892-1973), beloved throughout the world as the creator of The Hobbit, The Lord of the Rings, and The Silmarillion, was a professor of Anglo-Saxon at Oxford, a fellow of Pembroke College, and a fellow of Merton College until his retirement in 1959. His chief interest was the linguistic aspects of the early English written tradition, but while he studied classic works of the past, he was creating a set of his own.",
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "2.23.23.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=yl4dILkcqm4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=yl4dILkcqm4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=yl4dILkcqm4C&dq=lordoftherings&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=yl4dILkcqm4C&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_Of_The_Rings.html?hl=&id=yl4dILkcqm4C"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "accessViewStatus": "NONE"
+            },
+            "searchInfo": {
+                "textSnippet": "J.R.R. Tolkien (1892-1973), beloved throughout the world as the creator of The Hobbit, The Lord of the Rings, and The Silmarillion, was a professor of Anglo-Saxon at Oxford, a fellow of Pembroke College, and a fellow of Merton College until ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GfrqzgEACAAJ",
+            "etag": "d5p2aD09BnM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GfrqzgEACAAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publisher": "HarperCollins",
+                "publishedDate": "2022-08-18",
+                "description": "Begin your journey into Middle-earth. A New Legend Begins on Prime Video, in The Lord of the Rings: The Rings of Power. This one-volume, paperback edition includes The Fellowship of the Ring, The Two Towers, and The Return of the King, together with the Appendices in full. Sauron, the Dark Lord, has gathered to him all the Rings of Power - the means by which he intends to rule Middle-earth. All he lacks in his plans for dominion is the One Ring - the ring that rules them all - which has fallen into the hands of the hobbit, Bilbo Baggins. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as the Ring is entrusted to his care. He must leave his home and make a perilous journey across the realms of Middle-earth to the Crack of Doom, deep inside the territories of the Dark Lord. There he must destroy the Ring forever and foil the Dark Lord in his evil purpose.",
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GfrqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GfrqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=GfrqzgEACAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=GfrqzgEACAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings.html?hl=&id=GfrqzgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "accessViewStatus": "NONE"
+            },
+            "searchInfo": {
+                "textSnippet": "A New Legend Begins on Prime Video, in The Lord of the Rings: The Rings of Power. This one-volume, paperback edition includes The Fellowship of the Ring, The Two Towers, and The Return of the King, together with the Appendices in full."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FKziXsnqLTEC",
+            "etag": "seVpzqzmk8U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FKziXsnqLTEC",
+            "volumeInfo": {
+                "title": "The Lord of the Rings: The Fellowship of the Ring, The Two Towers, The Return of the King",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publisher": "HarperCollins UK",
+                "publishedDate": "2009-04-20",
+                "description": "All three parts of the epic masterpiece The Lord of the Rings – The Fellowship of the Ring, The Two Towers & The Return of the King – available as one download, featuring the definitive edition of the text, hyperlinked footnotes and page references, and 3 maps including a detailed map of Middle-earth.",
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "3.29.22.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FKziXsnqLTEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FKziXsnqLTEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=FKziXsnqLTEC&printsec=frontcover&dq=lordoftherings&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=FKziXsnqLTEC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FKziXsnqLTEC"
+            },
+            "saleInfo": {
+                "country": "AR",
+                "listPrice": {
+                    "amount": 20.79,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 17.26,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=FKziXsnqLTEC&rdid=book-FKziXsnqLTEC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 20790000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 17260000,
+                            "currencyCode": "USD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.ar/books/download/The_Lord_of_the_Rings_The_Fellowship_of-sample-epub.acsm?id=FKziXsnqLTEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "accessViewStatus": "SAMPLE"
+            },
+            "searchInfo": {
+                "textSnippet": "All three parts of the epic masterpiece The Lord of the Rings – The Fellowship of the Ring, The Two Towers &amp; The Return of the King – available as one download, featuring the definitive edition of the text, hyperlinked footnotes and ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "0CFAjgEACAAJ",
+            "etag": "xbT/Q5o4Q7U",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/0CFAjgEACAAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings",
+                "authors": [
+                    "J. R. R. Tolkien"
+                ],
+                "publisher": "Lord of the Rings",
+                "publishedDate": "2005-06",
+                "description": "Contains the fiftieth anniversay edition of all three volumes of J.R.R. Tolkien's classic \"Lord of the Rings,\" and includes textual notes, reference materials, and index.",
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=0CFAjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=0CFAjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=0CFAjgEACAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=0CFAjgEACAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings.html?hl=&id=0CFAjgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "accessViewStatus": "NONE"
+            },
+            "searchInfo": {
+                "textSnippet": "Contains the fiftieth anniversay edition of all three volumes of J.R.R. Tolkien&#39;s classic &quot;Lord of the Rings,&quot; and includes textual notes, reference materials, and index."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GyrbDwAAQBAJ",
+            "etag": "d8wZLpiY9Jw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GyrbDwAAQBAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings#1: Sembilan Pembawa Cincin (The Lord of the Rings Fellowship)",
+                "authors": [
+                    "J.R.R. Tolkien"
+                ],
+                "publisher": "Gramedia Pustaka Utama",
+                "publishedDate": "2020-04-06",
+                "description": "Di sebuah desa yang tenang di Shire, seorang hobbit muda bernama Frodo Baggins mendapat warisan cincin bertuah yang menyimpan kekuatan dahsyat. Agar cincin utama itu tidak jatuh ke tangan Sauron yang jahat, Frodo mesti mengadakan perjalanan panjang dan penuh bahaya ke gunung api di Mordor, untuk memusnahkan cincin tersebut. Bersama kedelapan sahabatnya, ia berangkat. Dipimpin oleh Gandalf sang penyihir, kesembilan pembawa cincin itu memulai perjalanan. Tapi Sauron dan para anak buahnya tidak tinggal diam.",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "maturityRating": "MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.1.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GyrbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GyrbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=GyrbDwAAQBAJ&printsec=frontcover&dq=lordoftherings&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=GyrbDwAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GyrbDwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "AR",
+                "listPrice": {
+                    "amount": 6.31,
+                    "currencyCode": "USD"
+                },
+                "retailPrice": {
+                    "amount": 6.31,
+                    "currencyCode": "USD"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=GyrbDwAAQBAJ&rdid=book-GyrbDwAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 6310000,
+                            "currencyCode": "USD"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 6310000,
+                            "currencyCode": "USD"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.ar/books/download/The_Lord_of_the_Rings_1_Sembilan_Pembawa-sample-pdf.acsm?id=GyrbDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "accessViewStatus": "SAMPLE"
+            },
+            "searchInfo": {
+                "textSnippet": "Di sebuah desa yang tenang di Shire, seorang hobbit muda bernama Frodo Baggins mendapat warisan cincin bertuah yang menyimpan kekuatan dahsyat."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "oTPuAAAAMAAJ",
+            "etag": "mM12CxNR3IU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/oTPuAAAAMAAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings",
+                "subtitle": "The Mythology of Power",
+                "authors": [
+                    "Jane Chance"
+                ],
+                "publisher": "Macmillan Reference USA",
+                "publishedDate": "1992",
+                "description": "Jane Chance's critical appraisal of J.R.R. Tokien's epic-romance trilogy, The Lord of the Rings, is the first to explore how power, politics and language interact in this heroic tale of the denizens of Middle-earth.",
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.4.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=oTPuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=oTPuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=oTPuAAAAMAAJ&q=lordoftherings&dq=lordoftherings&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=oTPuAAAAMAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings.html?hl=&id=oTPuAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "accessViewStatus": "NONE"
+            },
+            "searchInfo": {
+                "textSnippet": "Jane Chance&#39;s critical appraisal of J.R.R. Tokien&#39;s epic-romance trilogy, The Lord of the Rings, is the first to explore how power, politics and language interact in this heroic tale of the denizens of Middle-earth."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Dw-NAgAAQBAJ",
+            "etag": "ilKCW1LRusw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Dw-NAgAAQBAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings and Philosophy",
+                "subtitle": "One Book to Rule Them All",
+                "authors": [
+                    "Gregory Bassham",
+                    "Eric Bronson"
+                ],
+                "publisher": "Open Court",
+                "publishedDate": "2013-11-13",
+                "description": "The Lord of the Rings is intended to be applicable to the real world of relationships, religion, pleasure, pain, and politics. Tolkien himself said that his grand tale of wizards, orcs, hobbits, and elves was aimed at truth and good morals in the actual world. Analysis of the popular appeal of The Lord of the Rings (on websites and elsewhere) shows that Tolkien fans are hungry for discussion of the urgent moral and cosmological issues arising out of this fantastic epic story. Can political power be wielded for good, or must it always corrupt? Does technology destroy the truly human? Is it morally wrong to give up hope? Can we find meaning in chance events? In The Lord of the Rings and Philosophy, seventeen young philosophy professors, all of them ardent Tolkien fans and most of them contributors to the four earlier volumes in the Popular Culture and Philosophy series, address some of these important issues and show how clues to their solutions may be found in the imaginary world of Middle-earth. The book is divided into five sections, concerned with Power and the Ring, the Quest for Happiness, Good and Evil in Middle-earth, Time and Mortality, and the Relevance",
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.5.5.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Dw-NAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Dw-NAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=Dw-NAgAAQBAJ&printsec=frontcover&dq=lordoftherings&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=Dw-NAgAAQBAJ&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings_and_Philosophy.html?hl=&id=Dw-NAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.ar/books/download/The_Lord_of_the_Rings_and_Philosophy-sample-epub.acsm?id=Dw-NAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.ar/books/download/The_Lord_of_the_Rings_and_Philosophy-sample-pdf.acsm?id=Dw-NAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "accessViewStatus": "SAMPLE"
+            },
+            "searchInfo": {
+                "textSnippet": "The book is divided into five sections, concerned with Power and the Ring, the Quest for Happiness, Good and Evil in Middle-earth, Time and Mortality, and the Relevance"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "GEWXQbASXZUC",
+            "etag": "mt6bZ+QRtg4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/GEWXQbASXZUC",
+            "volumeInfo": {
+                "title": "Understanding the Lord of the Rings",
+                "subtitle": "The Best of Tolkien Criticism",
+                "authors": [
+                    "Rose A. Zimbardo",
+                    "Neil D. Isaacs"
+                ],
+                "publisher": "Houghton Mifflin Harcourt",
+                "publishedDate": "2004",
+                "description": "Publisher's description: When first published, The Lord of the Rings stood far from the mainstream: no one had seen anything like it for decades. Tolkien's almost stridently antimodern tale needed valiant defenders, vocal admirers who understood its sources and relished its monumental scale. While such champions of modernism as Edmund Wilson mocked Tolkien's archaic structure and language, W.H. Auden -- a great modernist poet in his own right -- rose to his defense with a spirited essay on the true nature of the Hero Quest. Edmund Fuller's essay collected here discusses the nature of the fairy tale, returning to the roots of the term to remove the treacle of Disney and restore the value of realistic enchantment. Tolkien's friend C.S. Lewis takes up the question of why, if you have a serious comment to make about real life, you would drape it in a never-never land of your own. He shrewdly argues that it is because real life does have mythic and heroic qualities -- in abundance. This collection also includes, among others, essays by Marion Zimmer Bradley, Verlyn Flieger, Paul Kocher, Jane Chance, and each of the editors, as well as a brand-new essay by Tom Shippey that shows us how to process all this vast learning, adding to it the many delights of the film versions of Tolkien's epic masterpiece, so we can relish his achievement all the more.",
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.5.6.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=GEWXQbASXZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=GEWXQbASXZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=GEWXQbASXZUC&printsec=frontcover&dq=lordoftherings&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=GEWXQbASXZUC&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Understanding_the_Lord_of_the_Rings.html?hl=&id=GEWXQbASXZUC"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.ar/books/download/Understanding_the_Lord_of_the_Rings-sample-pdf.acsm?id=GEWXQbASXZUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "accessViewStatus": "SAMPLE"
+            },
+            "searchInfo": {
+                "textSnippet": "This collection also includes, among others, essays by Marion Zimmer Bradley, Verlyn Flieger, Paul Kocher, Jane Chance, and each of the editors, as well as a brand-new essay by Tom Shippey that shows us how to process all this vast learning ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "nh0eAQAAIAAJ",
+            "etag": "fZWgjYAZ9nk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/nh0eAQAAIAAJ",
+            "volumeInfo": {
+                "title": "The Lord of the Rings",
+                "subtitle": "A Reader's Companion",
+                "authors": [
+                    "Wayne G. Hammond",
+                    "Christina Scull"
+                ],
+                "publisher": "William Morrow",
+                "publishedDate": "2005",
+                "description": "In The Lord of the Rings: A Reader\"s Companion, Wayne G. Hammond and Christina Scull unravel the story of how an epic battle has been fought to maintain the textual integrity of this huge story. Through hundreds of notes, which directly refer to the fiftieth anniversary edition of the novel, they provide a detailed account of how this incredible book has changed from one generation to the next. - Notes on significant changes made by the author and by ChristopherTolkien after his father\"s death - Brief references to illustrations, maps, and earlier versions of the text - References to people, places, and events that appear in other books by Tolkien - Explanations of archaic and unusual words - Translations and primers on how to use Tolkien\"s invented languages - Appearing for the first time, Tolkien\"s own Guide to the Names in TheLord of the Rings The Lord of the Rings: A Reader\"s Companion will provide uniqueinsight into the creative process of a true genius and will offer a detailedand informative account of how the book of the century has evolved.",
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.8.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=nh0eAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=nh0eAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "previewLink": "http://books.google.com.ar/books?id=nh0eAQAAIAAJ&q=lordoftherings&dq=lordoftherings&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.ar/books?id=nh0eAQAAIAAJ&dq=lordoftherings&hl=&as_pt=BOOKS&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings.html?hl=&id=nh0eAQAAIAAJ"
+            },
+            "saleInfo": {
+                "country": "AR"
+            },
+            "accessInfo": {
+                "country": "AR",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "accessViewStatus": "NONE"
+            },
+            "searchInfo": {
+                "textSnippet": "In The Lord of the Rings: A Reader&quot;s Companion, Wayne G. Hammond and Christina Scull unravel the story of how an epic battle has been fought to maintain the textual integrity of this huge story."
+            }
+        }
+    ]
+}
